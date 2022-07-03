@@ -1,2 +1,2 @@
 # IntentClassifier
-My nice intent classifier.
+Intent classifier.
